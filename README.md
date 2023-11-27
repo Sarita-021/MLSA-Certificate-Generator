@@ -5,7 +5,6 @@ both docx and pdf.
 
 ##  For Windows and Mac users.
 
-### Use ```python main_certificate.py``` to run your code
 
 ## Run these commands in your terminal
 
@@ -25,9 +24,9 @@ cd MLSA-Certificate-Generator
 ### Step 2 : Modifying your event details
 
 - Open the file `main_certificate.py`
-- Move to line 54 and Write your name instead of "Your Name"
-- Move to line 57 and Write your name instead of "Your Event Name"
-- Move to line 60 and Write your name instead of "Your Event Date"
+- Move to line 54 and Write name of the "Host" instead of "Your Name"
+- Move to line 57 and Write "Event name" instead of "Your Event Name"
+- Move to line 60 and Write "Event Date" instead of "Your Event Date"
 - Save the changes.
 
 ### Step 3 : Open Terminal
@@ -48,7 +47,7 @@ python main_certificate.py
 
 ### Step 4 : Certificates
 
-- Search for Output Folder in "MLSA-Certificate-Generator" folder in your pc
+- Look for Output Folder in "MLSA-Certificate-Generator" folder in your pc
 - There you find 2 separate folders namely "Doc" and "PDF" with your certificates ready
 - Extract the certificates and share with your participants
 
